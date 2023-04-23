@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'Typescript', 'ReactJs', 'NodeJs', 'Node.js', 'Google Cloud Platform', 'Microsoft Azure'];
+  const skills = ['JavaScript (ES6+)', 'Typescript', 'ReactJs', 'NodeJs', 'Node.js', 'Google Cloud Platform', 'Microsoft Azure', 'Flutter', 'React Native'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,7 +135,7 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Ever since I was a little kid, software development has been my passion. Throughout middle and high school, I latched on to any ideas for projects I could get, moving from "Hello World" to many simple projects. I learned Python, then C++, tearing through any books I could find on anything remotely related to software development. &amp; CSS!
+              Ever since I was a little kid, software development has been my passion. Throughout middle and high school, I latched on to any ideas for projects I could get, moving from "Hello World" to many simple projects. I learned Python, then C++, tearing through any books I could find on anything remotely related to software development.
             </p>
 
             <p>
