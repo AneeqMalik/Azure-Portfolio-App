@@ -65,9 +65,8 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a Software Engineer with a deep skillset in Cloud Infrastructure and Artificial Intelligence can deliver
-        highly scalable and cloud- based AI solutions using multiple technology stacks (GCP, AWS, and Azure).
-        As well as can create innovative web applications using the various stack platforms like MERN stack.{' '}
+        I’m a Software Engineer with a deep skillset in Cloud can deliver highly scalable and cloud- based solutions using (GCP and Azure).
+        As well as can create innovative web and mobile applications using the various stack platforms like MERN stack, REACT NATIVE and FLUTTER.{' '}
         <a href="https://github.com/AneeqMalik" target="_blank" rel="noreferrer">
           Follow My Works
         </a>
